@@ -1,0 +1,22 @@
+D lol_beachash
+D lol_f_gras
+D lol_f_sand1
+D lol_f_sand2
+D lol_grass1
+D lol_grass2
+D lol_sand1
+D lol_sandplants
+D lol_sandwet
+D lol_stro1
+
+W lol_bark
+W lol_barn
+W lol_bigdoor
+W lol_boardfloor
+W lol_door1
+W lol_dungeonwood
+W lol_rings
+W lol_wood1
+W lol_wood2
+W lol_wood3
+W lol_woodgate
