@@ -1,0 +1,5 @@
+"models/p_medkit.mdl" "models/hunger/p_syringe.mdl"
+"models/v_medkit.mdl" "models/hunger/v_syringe.mdl"
+"models/w_pmedkit.mdl" "models/hunger/w_syringebox.mdl"
+"models/w_medkit.mdl" "models/hunger/th_medkit.mdl"
+"models/w_grenade.mdl" "models/ww2projekt/grenade/w_grenade.mdl"

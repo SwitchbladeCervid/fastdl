@@ -1,0 +1,43 @@
+This is a credits file, it contains people/games that were somehow credited to this release:
+-Valve
+-Day of Defeat
+-Day of Defeat Source
+-Enemy Front
+-Day of Infamy
+-Call of Duty 1/2/United Offensive
+-Medal of Honor: Allied Assault/European Assault
+-Solokiller
+-D.N.I.O 071
+-VitorHunter
+-The303
+-Nero
+-Duggles
+-w00tguy123
+-R4to0.exe
+-Kelvin
+-KaLo
+-JPolito
+-Sniper
+-@n!t@
+-fgsfds
+-KernCore
+-Splinter
+-Sushi
+-Dave C(Klown)
+-Marzy
+-Afrikakorps
+
+If I forgot someone in the credits send me a pm in the forums.
+
+Shoutout to D.N.I.O 071 for porting the soviet weapons to the game
+
+Testers:
+-KernCore
+-Leviathan
+-D.N.I.O 071
+-VitorHunter
+-Lobster
+-@n!t@
+-R4to0.exe
+-Kelvin
+-erik6767
